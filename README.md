@@ -11,7 +11,9 @@ I'm Wadson  a Javascript Fanboy, and I give life to app and ideas with code. I a
 * 💻 HTML, CSS, JS
 * :)  Node
 
+## Stats 
 
+[![Wadson's github stats](https://github-readme-stats.vercel.app/api?username=Wadprog)](https://github.com/Wadprog/github-readme-stats) 
 
 <!--START_SECTION:waka-->
 
