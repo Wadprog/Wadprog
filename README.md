@@ -1,7 +1,7 @@
 ![Web and App Development](https://github.com/wadprog/wadprog/blob/master/1.png)
-<h2>Hi Hola Salut  
+<h2>Hi, Hola, Salut ,👋
 
-# Wadson  Vaval
+# About me 👤
 I'm Wadson  a Javascript Fanboy, and I give life to app and ideas with code. I am always learning.
  <em><b>I love meeting new people</b> so drop by and say <b>hi</b> 😊</em> 
 
@@ -14,7 +14,7 @@ I'm Wadson  a Javascript Fanboy, and I give life to app and ideas with code. I a
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-* :)  Node
+* 🖥  Node
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
