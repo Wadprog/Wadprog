@@ -1,4 +1,4 @@
-![Web and App Development](https://github.com/wadprog/wadprog/blob/master/1.png)
+![Web and App Development](https://github.com/wadprog/wadprog/blob/master/codeBanner.png)
 <h2>Hi, Hola, Salut ,👋
 
 # About me 👤
