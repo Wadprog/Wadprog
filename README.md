@@ -1,3 +1,7 @@
+<div style="text-align: center">
+<!--   <img width="100%" height="150px" src="https://images.unsplash.com/photo-1664575196412-ed801e8333a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" /> -->
+</div>
+
 <h1 align="left">Hi 👋, I'm Wadson Vavl</h1>
 <h3 align="left">I am a passionate developper. I enjoy providing solutions to problems by using innovative thinking. Most importantly I am addicted to learning. </h3>
 
