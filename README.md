@@ -2,7 +2,7 @@
 <!--   <img width="100%" height="150px" src="https://images.unsplash.com/photo-1664575196412-ed801e8333a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" /> -->
 </div>
 
-<h1 align="left">Hi 👋, I'm Wadson Vavl</h1>
+<h1 align="left">Hi 👋, I'm Wadson Vaval</h1>
 <h3 align="left">I am a passionate developper. I enjoy providing solutions to problems by using innovative thinking. Most importantly I am addicted to learning. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadprog&label=Profile%20views&color=0e75b6&style=flat" alt="wadprog" /> </p>
