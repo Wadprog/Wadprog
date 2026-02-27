@@ -11,15 +11,12 @@
 
 <p align="left"> <a href="https://twitter.com/waddprog" target="blank"><img src="https://img.shields.io/twitter/follow/waddprog?logo=twitter&style=for-the-badge" alt="waddprog" /></a> </p>
 
-- 🔭 I’m currently working on [Vwanu Social Media](https://github.com/Wadprog/vwanu-1.git)
-
-- 🌱 I’m currently learning **React Native, C#**
 
 - 👯 I’m looking to collaborate on [FeathersJs](https://github.com/feathersjs/feathers)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wadprog](https://github.com/wadprog)
 
-- 💬 Ask me about **React, Docker, Reactjs, Nodejs , Javascript , Js , MongoDb, Mysql, Expressjs , Featherjs , Socket.io, HTML , CSS, Firebase**
+- 💬 Ask me about **React, Docker, Reactjs, Nodejs , Javascript , TypeScript , MongoDb, Mysql, Expressjs , Featherjs , Socket.io, HTML , CSS, graphql, Firebase**
 
 - 📫 How to reach me **vavalson@hotmail.com**
 
