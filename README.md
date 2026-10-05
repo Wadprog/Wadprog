@@ -1,5 +1,5 @@
 ### Wadson Vaval
 
-Full-stack engineer working mostly with Node.js, TypeScript, React, and AWS.
+Full-stack engineer Node.js | TypeScript |  React |  AWS.
 
 [LinkedIn](https://www.linkedin.com/in/wadsonvaval)
